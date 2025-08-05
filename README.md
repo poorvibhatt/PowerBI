@@ -12,7 +12,7 @@ Technolog Used : The report was built using below tools and technology-
 Data Source: SearchGuru- Searchable Cricket Statistics Database
 
 Preview: 
-https://github.com/poorvibhatt/PowerBI/blob/main/BattingData.png
+(https://github.com/poorvibhatt/PowerBI/blob/main/BattingData.png)
 
 
 
