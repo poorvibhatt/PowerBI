@@ -19,5 +19,3 @@ Preview: https://github.com/poorvibhatt/PowerBI/blob/main/BattingData.png
 
 
 
-
-
